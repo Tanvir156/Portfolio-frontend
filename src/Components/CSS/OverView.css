@@ -1,0 +1,30 @@
+.hero__divider {
+  position: relative;
+  top: 20%;
+  width: max-content;
+}
+.center {
+  text-align: center;
+}
+.section {
+  width: 100%;
+  position: relative;
+  top: 30%;
+}
+.imgg {
+  width: 100%;
+  position: relative;
+  height: 100%;
+  top: -40px;
+}
+@media only screen and (max-width: 700px) {
+  .imgg {
+    top: -133px;
+  }
+}
+.highlight {
+  color: red;
+}
+.text {
+  color: aliceblue;
+}
